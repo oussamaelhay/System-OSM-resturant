@@ -21,7 +21,7 @@ Pour télécharger et configurer le projet Java sur votre ordinateur, suivez les
    - Naviguez jusqu’au dossier où vous souhaitez cloner le projet.
    - Exécutez la commande suivante :
      ```sh
-     git clone https://github.com/nischalsir/Restaurant-management-system-project-in-Java
+     git clone https://github.com/oussamaelhay/System-OSM-resturant
      ```
 
 2. **Télécharger le projet en tant que fichier ZIP :**:
